@@ -1,2 +1,3 @@
 const name = "ali";
-const family = "sadeghi";
+const familyName = "sadeghi";
+
